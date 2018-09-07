@@ -1,0 +1,301 @@
+@-moz-document regexp("https://brokenforum.com/index.php\\?threads/occupational-safety-orientations-of-lights-glory-ic.*"), regexp("https://brokenforum.com/index.php\\?conversations/oso-lg.*") {
+/* ==UserStyle==
+@name           Occupations - Thread Only 
+@namespace      github.com/openstyles/stylus
+@version        1.0.2
+@description    Mafia, Occupations, Relevant Threads ONly
+@author         Me
+@updateURL https://raw.githubusercontent.com/sarcasticsys/bf-mafia/master/oso-lg/css/oso-lg.user.css
+==/UserStyle== */
+
+@media (max-width:650px) {
+  div .avatar--m img[class="avatar-u1032-m"],
+  div .avatar--m img[class="avatar-u18345-m"],
+  div .avatar--m img[class="avatar-u509-m"],
+  div .avatar--m img[class="avatar-u10307-m"],
+  div .avatar--m img[class="avatar-u911-m"],
+  div .avatar--m img[class="avatar-u719-m"],
+  div .avatar--m img[class="avatar-u10034-m"],
+  div .avatar--m img[class="avatar-u1720-m"],
+  div .avatar--m img[class="avatar-u1658-m"],
+  div .avatar--m img[class="avatar-u557-m"],
+  div .avatar--m img[class="avatar-u14438-m"],
+  div .avatar--m img[class="avatar-u7810-m"],
+  div .avatar--m img[class="avatar-u732-m"],
+  div .avatar--m img[class="avatar-u17219-m"],
+  div .avatar--m img[class="avatar-u2954-m"],
+  div .avatar--m img[class="avatar-u10146-m"],
+  div .avatar--m img[class="avatar-u3458-m"],
+  div .avatar--m img[class="avatar-u15610-m"],
+  div .avatar--m img[class="avatar-u17218-m"],
+  div .avatar--m img[class="avatar-u959-m"],
+  div .avatar--m img[class="avatar-u608-m"],
+  div .avatar--m img[class="avatar-u10494-m"],
+  div .avatar--m img[class="avatar-u10152-m"],
+  div .avatar--m img[class="avatar-u18534-m"],
+  div .avatar--m img[class="avatar-u7066-m"],
+  div .avatar--m img[class="avatar-u9757-m"],
+  div .avatar--m img[class="avatar-u19190-m"]
+  {
+    display:block;
+     -moz-box-sizing: border-box;
+    width: 48px;
+    height: 48px;
+    padding-left: 48px;
+  }
+  div .avatar--m img[class="avatar-u1032-m"]
+  {
+    background: url(https://i.imgur.com/oeT5bde.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u18345-m"]
+  {
+    background: url(https://i.imgur.com/AZVRRdl.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u509-m"]
+  {
+    background: url(https://i.imgur.com/NhVkTEY.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u10307-m"]
+  {
+    background: url(https://i.imgur.com/BwYJpXy.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u911-m"]
+  {
+    background: url(https://i.imgur.com/CVjgpgW.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u719-m"]
+  {
+    background: url(https://i.imgur.com/PWpfnQx.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u10034-m"]
+  {
+    background: url(https://i.imgur.com/JewN7X9.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u1720-m"]
+  {
+    background: url(https://i.imgur.com/n12mYxI.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u1658-m"]
+  {
+    background: url(https://i.imgur.com/c5VpLKl.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u557-m"]
+  {
+    background: url(https://i.imgur.com/GzTAsAF.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u14438-m"]
+  {
+    background: url(https://i.imgur.com/PK3oJr3.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u7810-m"]
+  {
+    background: url(https://i.imgur.com/8fex3Ft.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u732-m"]
+  {
+    background: url(https://i.imgur.com/jWjRaeX.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u17219-m"]
+  {
+    background: url(https://i.imgur.com/ZI20hoa.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u2954-m"]
+  {
+    background: url(https://i.imgur.com/5qzcHEr.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u10146-m"]
+  {
+    background: url(https://i.imgur.com/P2LzZYm.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u3458-m"]
+  {
+    background: url(https://i.imgur.com/XjDfqFD.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u15610-m"]
+  {
+    background: url(https://i.imgur.com/bW5gFVl.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u17218-m"]
+  {
+    background: url(https://i.imgur.com/PduLNAg.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u959-m"]
+  {
+    background: url(https://i.imgur.com/qcQoEbR.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u608-m"]
+  {
+    background: url(https://i.imgur.com/04BjUOW.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u10494-m"]
+  {
+    background: url(https://i.imgur.com/MwmjTZ7.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u10152-m"]
+  {
+    background: url(https://i.imgur.com/8J7j0KL.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u18534-m"]
+  {
+    background: url(https://i.imgur.com/4aCvlzA.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u7066-m"]
+  {
+    background: url(https://i.imgur.com/NOY1vKo.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u9757-m"]
+  {
+    background: url(https://i.imgur.com/cYvYehD.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u19190-m"]
+  {
+    background: url(https://i.imgur.com/Yq8cGJR.jpg) no-repeat;
+  }
+}
+
+@media (min-width:650px) {
+  div .avatar--m img[class="avatar-u1032-m"],
+  div .avatar--m img[class="avatar-u18345-m"],
+  div .avatar--m img[class="avatar-u509-m"],
+  div .avatar--m img[class="avatar-u10307-m"],
+  div .avatar--m img[class="avatar-u911-m"],
+  div .avatar--m img[class="avatar-u719-m"],
+  div .avatar--m img[class="avatar-u10034-m"],
+  div .avatar--m img[class="avatar-u1720-m"],
+  div .avatar--m img[class="avatar-u1658-m"],
+  div .avatar--m img[class="avatar-u557-m"],
+  div .avatar--m img[class="avatar-u14438-m"],
+  div .avatar--m img[class="avatar-u7810-m"],
+  div .avatar--m img[class="avatar-u732-m"],
+  div .avatar--m img[class="avatar-u17219-m"],
+  div .avatar--m img[class="avatar-u2954-m"],
+  div .avatar--m img[class="avatar-u10146-m"],
+  div .avatar--m img[class="avatar-u3458-m"],
+  div .avatar--m img[class="avatar-u15610-m"],
+  div .avatar--m img[class="avatar-u17218-m"],
+  div .avatar--m img[class="avatar-u959-m"],
+  div .avatar--m img[class="avatar-u608-m"],
+  div .avatar--m img[class="avatar-u10494-m"],
+  div .avatar--m img[class="avatar-u10152-m"],
+  div .avatar--m img[class="avatar-u18534-m"],
+  div .avatar--m img[class="avatar-u7066-m"],
+  div .avatar--m img[class="avatar-u9757-m"],
+  div .avatar--m img[class="avatar-u19190-m"]
+  {
+    display:block;
+     -moz-box-sizing: border-box;
+    width: 96px;
+    height: 96px;
+    padding-left: 96px;
+  }
+  div .avatar--m img[class="avatar-u1032-m"]
+  {
+    background: url(https://i.imgur.com/OG47odu.png) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u18345-m"]
+  {
+    background: url(https://i.imgur.com/YDEQoaj.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u509-m"]
+  {
+    background: url(https://i.imgur.com/53ih4Sf.png) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u10307-m"]
+  {
+    background: url(https://i.imgur.com/aKvTU9y.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u911-m"]
+  {
+    background: url(https://i.imgur.com/RvCMz95.png) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u719-m"]
+  {
+    background: url(https://i.imgur.com/1DD6dmf.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u10034-m"]
+  {
+    background: url(https://i.imgur.com/IUHddKi.png) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u1720-m"]
+  {
+    background: url(https://i.imgur.com/8GAPcmj.png) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u1658-m"]
+  {
+    background: url(https://i.imgur.com/966BDWo.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u557-m"]
+  {
+    background: url(https://i.imgur.com/IGbp1Ek.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u14438-m"]
+  {
+    background: url(https://i.imgur.com/nYvIv5z.png) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u7810-m"]
+  {
+    background: url(https://i.imgur.com/4mkoucH.png) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u732-m"]
+  {
+    background: url(https://i.imgur.com/0BotQaP.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u17219-m"]
+  {
+    background: url(https://i.imgur.com/55R75rH.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u2954-m"]
+  {
+    background: url(https://i.imgur.com/mAnvSxq.png) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u10146-m"]
+  {
+    background: url(https://i.imgur.com/n8mgv28.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u3458-m"]
+  {
+    background: url(https://i.imgur.com/nkJuIMl.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u15610-m"]
+  {
+    background: url(https://i.imgur.com/T9ZGTwJ.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u17218-m"]
+  {
+    background: url(https://i.imgur.com/lwjZsP2.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u959-m"]
+  {
+    background: url(https://i.imgur.com/2RpeY7V.png) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u608-m"]
+  {
+    background: url(https://i.imgur.com/ZDE8xg3.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u10494-m"]
+  {
+    background: url(https://i.imgur.com/03O3OBr.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u10152-m"]
+  {
+    background: url(https://i.imgur.com/jDx4Z7j.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u18534-m"]
+  {
+    background: url(https://i.imgur.com/PMuADGc.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u7066-m"]
+  {
+    background: url(https://i.imgur.com/AvRAPmY.png) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u9757-m"]
+  {
+    background: url(https://i.imgur.com/ch5BYBA.jpg) no-repeat;
+  }
+  div .avatar--m img[class="avatar-u19190-m"]
+  {
+    background: url(https://i.imgur.com/IGK0LPx.png) no-repeat;
+  }
+}
+
+}
