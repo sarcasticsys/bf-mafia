@@ -1,9 +1,9 @@
-@-moz-document regexp("https://brokenforum.com/index.php\\?threads/occupational-safety-orientations-of-lights-glory-ic.*"), regexp("https://brokenforum.com/index.php\\?conversations/oso-lg.*") {
+@-moz-document regexp("^https://brokenforum.com/index.php\\?threads/occupational-safety-orientations-of-lights-glory-ic.*"), regexp("^https://brokenforum.com/index.php\\?conversations/oso-lg.*") {
 /* ==UserStyle==
-@name           Occupations - Thread Only 
+@name           Occupations - Game Threads Only
 @namespace      github.com/openstyles/stylus
-@version        1.0.3
-@description    Mafia, Occupations, Relevant Threads Only
+@version        1.0.4
+@description    Occupationial Safety Orientations of Light's Glory Overlay
 @author         Me
 @updateURL https://raw.githubusercontent.com/sarcasticsys/bf-mafia/master/oso-lg/css/oso-lg.user.css
 ==/UserStyle== */
