@@ -1,8 +1,8 @@
 @-moz-document regexp("^https://brokenforum.com/index.php\\?threads/occupational-safety-orientations-of-lights-glory-ic.*"), regexp("^https://brokenforum.com/index.php\\?conversations/oso-lg.*") {
 /* ==UserStyle==
-@name           Occupations - Game Threads Only
+@name           Occupational Safety Orientations - Game Threads Only
 @namespace      github.com/openstyles/stylus
-@version        1.0.4
+@version        1.0.5
 @description    Occupationial Safety Orientations of Light's Glory Overlay
 @author         Me
 @updateURL https://raw.githubusercontent.com/sarcasticsys/bf-mafia/master/oso-lg/css/oso-lg.user.css
