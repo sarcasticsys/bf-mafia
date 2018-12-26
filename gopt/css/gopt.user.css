@@ -1,160 +1,146 @@
-/* ==UserStyle==
+@-moz-document domain("brokenforum.com") {
+    /* ==UserStyle==
 @name           Goddess of public Transportation
 @namespace      github.com/openstyles/stylus
-@version        1.0.0
+@version        1.0.1
 @description    Goddess of Public Transportation Overlay
 @author         Me
 @updateURL https://raw.githubusercontent.com/sarcasticsys/bf-mafia/master/gopt/css/gopt.user.css
 ==/UserStyle== */
-@media (min-width: 650px) {
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u1069-m"],
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u557-m"],
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u911-m"],
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u1720-m"],
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u10494-m"],
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u7066-m"],
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u10152-m"],
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u10146-m"],
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u18345-m"],
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u719-m"],
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u15703-m"],
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u17219-m"],
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u7810-m"],
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u608-m"],
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u19190-m"] {
-        display: block;
-        -moz-box-sizing: border-box;
-        width: 96px;
-        height: 96px;
-        padding-left: 96px;
+    @media (min-width: 650px) {
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u1069-m"],
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u557-m"],
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u911-m"],
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u1720-m"],
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u10494-m"],
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u7066-m"],
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u10152-m"],
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u10146-m"],
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u18345-m"],
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u719-m"],
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u15703-m"],
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u17219-m"],
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u7810-m"],
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u608-m"],
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u19190-m"] {
+            display: block;
+            -moz-box-sizing: border-box;
+            width: 96px;
+            height: 96px;
+            padding-left: 96px;
+        }
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u1069-m"] {
+            background: url(https://i.imgur.com/VH1h3ML.png) no-repeat;
+        }
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u557-m"] {
+            background: url(https://i.imgur.com/ouRy5G5.png) no-repeat;
+        }
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u911-m"] {
+            background: url(https://i.imgur.com/x53mVCC.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u1720-m"] {
+            background: url(https://i.imgur.com/KXdV5bl.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u10494-m"] {
+            background: url(https://i.imgur.com/YTqMekU.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u7066-m"] {
+            background: url(https://i.imgur.com/4nddCi0.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u10152-m"] {
+            background: url(https://i.imgur.com/XIP5XGs.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u10146-m"] {
+            background: url(https://i.imgur.com/CDqaNx3.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u18345-m"] {
+            background: url(https://i.imgur.com/cLSQ2Qn.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u719-m"] {
+            background: url(https://i.imgur.com/VVjjMqg.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u15703-m"] {
+            background: url(https://i.imgur.com/doRMkKI.png) no-repeat;
+        }
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u17219-m"] {
+            background: url(https://i.imgur.com/Jghwq2t.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u7810-m"] {
+            background: url(https://i.imgur.com/6niL7FQ.png) no-repeat;
+        }
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u608-m"] {
+            background: url(https://i.imgur.com/ekWk8Jq.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u19190-m"] {
+            background: url(https://i.imgur.com/4mLuZYx.jpg) no-repeat;
+        }
     }
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u1069-m"] {
-        background: url(https://i.imgur.com/VH1h3ML.png) no-repeat;
+    @media (min-width: 650px) {
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u1069-m"],
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u17219-m"],
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u719-m"],
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u19190-m"],
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u15703-m"],
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u911-m"],
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u608-m"],
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u1720-m"],
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u10494-m"],
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u7810-m"],
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u10146-m"],
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u7066-m"],
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u10152-m"],
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u18345-m"],
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u557-m"] {
+            display: block;
+            -moz-box-sizing: border-box;
+            width: 96px;
+            height: 96px;
+            padding-left: 96px;
+        }
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u1069-m"] {
+            background: url(https://i.imgur.com/VH1h3ML.png) no-repeat;
+        }
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u17219-m"] {
+            background: url(https://i.imgur.com/PseIIrs.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u719-m"] {
+            background: url(https://i.imgur.com/VVjjMqg.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u19190-m"] {
+            background: url(https://i.imgur.com/E7TN3jU.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u15703-m"] {
+            background: url(https://i.imgur.com/doRMkKI.png) no-repeat;
+        }
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u911-m"] {
+            background: url(https://i.imgur.com/kypaIAY.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u608-m"] {
+            background: url(https://i.imgur.com/ok9ZJCm.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u1720-m"] {
+            background: url(https://i.imgur.com/KXdV5bl.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u10494-m"] {
+            background: url(https://i.imgur.com/IYqFapP.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u7810-m"] {
+            background: url(https://i.imgur.com/PCErMzY.png) no-repeat;
+        }
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u10146-m"] {
+            background: url(https://i.imgur.com/CDqaNx3.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u7066-m"] {
+            background: url(https://i.imgur.com/aMIGifx.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u10152-m"] {
+            background: url(https://i.imgur.com/m41BzGT.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u18345-m"] {
+            background: url(https://i.imgur.com/mHu9Joo.jpg) no-repeat;
+        }
+        div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u557-m"] {
+            background: url(https://i.imgur.com/qHlHPWo.png) no-repeat;
+        }
     }
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u557-m"] {
-        background: url(https://i.imgur.com/ouRy5G5.png) no-repeat;
-    }
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u911-m"] {
-        background: url(https://i.imgur.com/x53mVCC.jpg) no-repeat;
-    }
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u1720-m"] {
-        background: url(https://i.imgur.com/KXdV5bl.jpg) no-repeat;
-    }
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u10494-m"] {
-        background: url(https://i.imgur.com/YTqMekU.jpg) no-repeat;
-    }
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u7066-m"] {
-        background: url(https://i.imgur.com/4nddCi0.jpg) no-repeat;
-    }
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u10152-m"] {
-        background: url(https://i.imgur.com/XIP5XGs.jpg) no-repeat;
-    }
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u10146-m"] {
-        background: url(https://i.imgur.com/CDqaNx3.jpg) no-repeat;
-    }
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u18345-m"] {
-        background: url(https://i.imgur.com/cLSQ2Qn.jpg) no-repeat;
-    }
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u719-m"] {
-        background: url(https://i.imgur.com/VVjjMqg.jpg) no-repeat;
-    }
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u15703-m"] {
-        background: url(https://i.imgur.com/doRMkKI.png) no-repeat;
-    }
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u17219-m"] {
-        background: url(https://i.imgur.com/Jghwq2t.jpg) no-repeat;
-    }
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u7810-m"] {
-        background: url(https://i.imgur.com/6niL7FQ.png) no-repeat;
-    }
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u608-m"] {
-        background: url(https://i.imgur.com/ekWk8Jq.jpg) no-repeat;
-    }
-    div[data-lb-id="thread-11730"] .avatar--m img[class="avatar-u19190-m"] {
-        background: url(https://i.imgur.com/4mLuZYx.jpg) no-repeat;
-    }
-}
-@media (min-width:650px) {
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u1069-m"],
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u17219-m"],
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u719-m"],
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u19190-m"],
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u15703-m"],
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u911-m"],
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u608-m"],
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u1720-m"],
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u10494-m"],
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u7810-m"],
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u10146-m"],
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u7066-m"],
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u10152-m"],
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u18345-m"],
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u557-m"]
-  {
-    display:block;
-     -moz-box-sizing: border-box;
-    width: 96px;
-    height: 96px;
-    padding-left: 96px;
-  }
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u1069-m"]
-  {
-    background: url(https://i.imgur.com/VH1h3ML.png) no-repeat;
-  }
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u17219-m"]
-  {
-    background: url(https://i.imgur.com/PseIIrs.jpg) no-repeat;
-  }
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u719-m"]
-  {
-    background: url(https://i.imgur.com/VVjjMqg.jpg) no-repeat;
-  }
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u19190-m"]
-  {
-    background: url(https://i.imgur.com/E7TN3jU.jpg) no-repeat;
-  }
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u15703-m"]
-  {
-    background: url(https://i.imgur.com/doRMkKI.png) no-repeat;
-  }
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u911-m"]
-  {
-    background: url(https://i.imgur.com/kypaIAY.jpg) no-repeat;
-  }
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u608-m"]
-  {
-    background: url(https://i.imgur.com/ok9ZJCm.jpg) no-repeat;
-  }
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u1720-m"]
-  {
-    background: url(https://i.imgur.com/KXdV5bl.jpg) no-repeat;
-  }
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u10494-m"]
-  {
-    background: url(https://i.imgur.com/IYqFapP.jpg) no-repeat;
-  }
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u7810-m"]
-  {
-    background: url(https://i.imgur.com/PCErMzY.png) no-repeat;
-  }
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u10146-m"]
-  {
-    background: url(https://i.imgur.com/CDqaNx3.jpg) no-repeat;
-  }
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u7066-m"]
-  {
-    background: url(https://i.imgur.com/aMIGifx.jpg) no-repeat;
-  }
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u10152-m"]
-  {
-    background: url(https://i.imgur.com/m41BzGT.jpg) no-repeat;
-  }
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u18345-m"]
-  {
-    background: url(https://i.imgur.com/mHu9Joo.jpg) no-repeat;
-  }
-  div[data-lb-id="thread-11736"] .avatar--m img[class="avatar-u557-m"]
-  {
-    background: url(https://i.imgur.com/qHlHPWo.png) no-repeat;
-  }
 }
