@@ -1,0 +1,115 @@
+@-moz-document domain("brokenforum.com") {
+    /* ==UserStyle==
+@name           Machinations of Light's Glory
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    Machinations 
+@author         Me
+@updateURL https://raw.githubusercontent.com/sarcasticsys/bf-mafia/master/machinations-lg/css/machinations.user.css
+    ==/UserStyle== */
+    /*Machinations Begin*/
+    /* Common junk */
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Nute"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Demon G Sides"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Quackers"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Kohei"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Petrames"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Diana"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Equis"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="QuantumBit"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Speak With Books"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Anxifera"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="PARAdoxial"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Lazy Shiftless Bastard"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="JohnStargazer"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Ozzo"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Sarkus"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Dan Lawrence"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Cormac"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Bladida"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Nebty"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Anabanana"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="FontyPython"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Soli-chan"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Paranoia"],
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="AaronSofaer"] {
+        display: block;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        width: 96px;
+        height: 96px;
+        padding-left: 96px;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="AaronSofaer"] {
+        background: url(https://i.imgur.com/OeNSwXR.jpg) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Anabanana"] {
+        background: url(https://i.imgur.com/DLLTNby.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Anxifera"] {
+        background: url(https://i.imgur.com/5OTmTwN.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Bladida"] {
+        background: url(https://i.imgur.com/NR2nqkQ.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Cormac"] {
+        background: url(https://i.imgur.com/nh6lTJg.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Dan Lawrence"] {
+        background: url(https://i.imgur.com/MxF1rSV.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Demon G Sides"] {
+        background: url(https://i.imgur.com/Z6GVvd7.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Diana"] {
+        background: url(https://i.imgur.com/ExHGmF8.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Equis"] {
+        background: url(https://i.imgur.com/1x2Sjpd.jpg) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="FontyPython"] {
+        background: url(https://i.imgur.com/s1UYHae.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="JohnStargazer"] {
+        background: url(https://i.imgur.com/T6qiGbN.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Kohei"] {
+        background: url(https://i.imgur.com/3zUsQAt.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Lazy Shiftless Bastard"] {
+        background: url(https://i.imgur.com/tgtwZPC.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Nebty"] {
+        background: url(https://i.imgur.com/XMsGQMh.jpg) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Nute"] {
+        background: url(https://i.imgur.com/xhIKgdx.jpg) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Ozzo"] {
+        background: url(https://i.imgur.com/qwUMglc.jpg) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="PARAdoxial"] {
+        background: url(https://i.imgur.com/bF9DzwF.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Petrames"] {
+        background: url(https://i.imgur.com/GBICWtI.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Quackers"] {
+        background: url(https://i.imgur.com/rtJCv1k.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="QuantumBit"] {
+        background: url(https://i.imgur.com/ubQ6KXV.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Sarkus"] {
+        background: url(https://i.imgur.com/appT5K5.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Soli-chan"] {
+        background: url(https://i.imgur.com/yy6uubw.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Speak With Books"] {
+        background: url(https://i.imgur.com/To7UMRO.png) no-repeat;
+    }
+    div[data-lb-id="thread-5013"] .avatar--m img[alt="Paranoia"] {
+        background: url(https://i.imgur.com/zKhk7vK.jpg) no-repeat;
+    }
+}
